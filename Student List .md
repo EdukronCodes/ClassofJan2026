@@ -1,5 +1,5 @@
 | S.No | Full Name | GitHub Link | Experience | Course | Assigned Mentor |
-|------|-----------|-------------|-----------|--------|----------------|
+|------|-----------|-------------|------------|--------|----------------|
 | 1 | Yendluri Vijay Vardhan | https://github.com/yendlurivardhan/Python_Assignment | 0 | Data science with AI | Mounika |
 | 2 | Lakshman Aditya Tiriveedhi | https://github.com/lakshmanaditya4 | 0 | Data Science | Manju |
 | 3 | Rupesh Kumar | https://github.com/justrupesh12 | 6.10 year | Data science | Meghana |
@@ -73,3 +73,6 @@
 | 71 | Rayavarapu Devi (DE) | https://github.com/Devi92-git | 2 | Data Engineering | Meghana |
 | 72 | Geethika Chamala | https://github.com/geethikachamala3/Assignments | 3.6 | Data Engineering | Maksud |
 | 73 | Sahana | https://github.com/Sahanaoct22/DE-assignment.git | — | DE | Mounika |
+| 74 | Chandan | https://github.com/Chandan-hc/sql-assignments.git | — | — | Mounika |
+| 75 | Poorna Chandra | https://github.com/poornachandra17/sql_assignments | — | — | Mounika |
+| 76 | T. Kumar Raja | https://github.com/kumarrajathammana918 | — |  | Mounika |
